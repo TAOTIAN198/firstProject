@@ -1,2 +1,0 @@
-# firstProject
-Created with CodeSandbox
